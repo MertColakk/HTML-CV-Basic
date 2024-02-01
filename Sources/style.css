@@ -1,0 +1,32 @@
+body{
+    background-color: #B4B4B8;
+}
+#name{
+    text-align: center;
+}
+#photo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.summary{
+    text-align: center
+}
+#h2edu{
+    text-align: center;
+}
+#workexp{
+    text-align: center;
+}
+#skill-text{
+    text-align: center;
+}
+#award-text{
+    text-align: center;
+}
+#other-text{
+    text-align: center;
+}
+#links{
+    text-align: center;
+}
